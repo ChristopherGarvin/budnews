@@ -1,5 +1,5 @@
 const config = {
-  productionWebsiteURL: "https://codernews.com",
+  productionWebsiteURL: "https://bud-news.com",
   userCookieExpirationLengthInDays: 365,
   hrsUntilUnvoteExpires: 1,
   hrsUntilEditAndDeleteExpires: 2,

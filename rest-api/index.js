@@ -29,7 +29,7 @@ mongoose.connection.on("open", function() {
 app.use(helmet())
 
 app.use(cors({
-  origin: "http://localhost:3000",
+  origin: process.env.NODE_ENV === "development" ? "http://localhost:3000" : "https://bud-news.com",
   credentials: true
 }))
 
