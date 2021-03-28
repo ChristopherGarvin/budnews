@@ -184,7 +184,7 @@ export default class extends Component {
     return (
       <div className="login-wrapper">
         <HeadMetadata
-          title="Login | Coder News"
+          title="Login"
         />
         <GoogleAnalytics />
         {

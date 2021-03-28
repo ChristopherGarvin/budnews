@@ -28,7 +28,7 @@ export default class extends Component {
     return (
       <div className="layout-wrapper">
         <HeadMetadata
-          title="New Comments | Coder News"
+          title= "New Comments"
         />
         <GoogleAnalytics />
         <Header

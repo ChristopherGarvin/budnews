@@ -28,7 +28,7 @@ export default class extends Component {
     return (
       <div className="layout-wrapper">
         <HeadMetadata
-          title="Coder News"
+          title={process.env.PRODUCT_NAME}
         />
         <GoogleAnalytics />
         <Header

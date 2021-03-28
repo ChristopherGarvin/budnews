@@ -27,7 +27,7 @@ export default class extends Component {
     return (
       <div className="layout-wrapper">
         <HeadMetadata
-          title="Ask | Coder News"
+          title="Ask"
           description="News and discussion for software engineers."
         />
         <GoogleAnalytics />

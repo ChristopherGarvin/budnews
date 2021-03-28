@@ -7,7 +7,7 @@ export default class extends Component {
     return (
       <div className="alternate-header">
         <a href="/">
-          <img src="/coder-news-icon.png" />
+          <img src="/bn.png" />
         </a>
         <span className="alternate-header-label"> {this.props.displayMessage}</span>
       </div>

@@ -28,8 +28,8 @@ export default class extends Component {
     return (
       <div className="layout-wrapper">
         <HeadMetadata
-          title="Coder News"
-          description="News and discussion for software engineers."
+          title={process.env.PRODUCT_NAME}
+          description="Cannabis news and discussion."
         />
         <GoogleAnalytics />
         <Header

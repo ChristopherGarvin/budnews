@@ -10,7 +10,7 @@ export default class extends Component {
     return (
       <div className="news-guidelines-wrapper">
         <HeadMetadata
-          title="{process.env.PRODUCT_NAME} Guidelines"
+          title="Guidelines"
         />
         <GoogleAnalytics />
         <div className="news-guidelines-top-image">
