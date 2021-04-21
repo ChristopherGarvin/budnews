@@ -18,6 +18,7 @@ export default class extends Component {
         <meta name="theme-color" content="#ffffff" />
         <meta name="google-site-verification" content="CgSAnRLm91TFKD86oDdRfIlwLU5yKSd-rqtD6N_V7Zs" />
         <meta name="msvalidate.01" content="34B372CB2F29AB3CE9F79314ED835554" />
+        <meta name="google-site-verification" content="9hg2jvNXGGt3WbdOLCladuZ8393yqDy5kqjNXAwwhGc" />
       </Head>
     )
   }
