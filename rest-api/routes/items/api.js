@@ -1506,7 +1506,7 @@ module.exports = {
         items.map(function(item) {
           const ageInHours = ((moment().unix() - item.created) / 3600)
 
-          const gravity = 1.8
+          const gravity = 0.5
 
           const score = (item.points - 1) / (Math.pow((ageInHours + 2), gravity))
 
