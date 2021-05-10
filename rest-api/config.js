@@ -3,7 +3,7 @@ const config = {
   userCookieExpirationLengthInDays: 365,
   hrsUntilUnvoteExpires: 1,
   hrsUntilEditAndDeleteExpires: 2,
-  maxAgeOfRankedItemsInDays: 3,
+  maxAgeOfRankedItemsInDays: 10,
   itemsPerPage: 30,
   minimumKarmaToDownvote: 0,
   commentsPerPage: 30,
