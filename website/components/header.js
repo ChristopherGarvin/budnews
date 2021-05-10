@@ -13,6 +13,7 @@ export default class extends Component {
 
   render() {
     return (
+
       <table className="header-wrapper">
         <tbody>
           <tr>

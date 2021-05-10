@@ -30,6 +30,7 @@ export default class extends Component {
         <HeadMetadata
           title={process.env.PRODUCT_NAME}
           description="Cannabis news and discussion."
+          
         />
         <GoogleAnalytics />
         <Header

@@ -7,5 +7,6 @@ module.exports = withCSS({
     "ALGOLIA_APP_ID": "",
     "ALGOLIA_PUBLIC_API_KEY": "",
     "PRODUCT_NAME": "Bud News"
+
   }
 })

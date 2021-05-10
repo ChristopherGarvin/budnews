@@ -170,7 +170,7 @@ export default class extends Component {
     return (
       <div className="layout-wrapper">
         <HeadMetadata
-          title="Submit | Coder News"
+          title="Submit | Bud News"
         />
         <GoogleAnalytics />
         <AlternateHeader
